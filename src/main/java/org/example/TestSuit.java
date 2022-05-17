@@ -45,8 +45,7 @@ public class TestSuit {
             System.out.println("Your registration completed");
 
         }
-
-//driver.quit();
+        driver.quit();
     }
 
     public static void openTheURl() {
